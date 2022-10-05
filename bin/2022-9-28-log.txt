@@ -1,0 +1,4 @@
+17:4:1 => [info] service_name:FriendServiceRpc
+17:4:1 => [info] method_name:GetFriendsList
+17:4:32 => [info] service_name:FriendServiceRpc
+17:4:32 => [info] method_name:GetFriendsList
